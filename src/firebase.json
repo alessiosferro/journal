@@ -1,0 +1,6 @@
+{
+  "hosting": {
+    "site": "journaling",
+    "public": "public"
+  }
+}
