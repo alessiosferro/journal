@@ -10,10 +10,15 @@
     "deploy": "firebase deploy --only hosting:journaling"
   },
   "dependencies": {
+    "@chakra-ui/react": "^2.5.5",
+    "@emotion/react": "^11.10.6",
+    "@emotion/styled": "^11.10.6",
     "firebase": "^9.19.1",
+    "framer-motion": "^10.12.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-google-button": "^0.7.2"
+    "react-google-button": "^0.7.2",
+    "react-router-dom": "^6.10.0"
   },
   "devDependencies": {
     "@types/react": "^18.0.27",
